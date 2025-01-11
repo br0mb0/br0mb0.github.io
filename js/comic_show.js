@@ -39,10 +39,10 @@ function writePageClickable(div,clickable) {
 function writePageTitle(div,toggleNum, char) {
   if (pgData.length >= pg) {
     //display title of current page
-    document.querySelector(div).innerHTML = `<h1>${pgData[pg - 1].title}</h1>`;
-    if (toggleNum) {
+    document.querySelector(div).innerHTML = `<h1 style="color: azure">${pgData[pg - 1].title}</h1>`;
+    if (0) {
         //toggle whether you want to display the page number
-        document.querySelector(div).innerHTML = `<h1 style="color: azure">${pgData[pg - 1].pgNum + pgData[pg - 1].title}</h1>`; //char denotes a separating character between the number and the title
+        document.querySelector(div).innerHTML = `<h1>${pgData[pg - 1].pgNum + char + pgData[pg - 1].title}</h1>`; //char denotes a separating character between the number and the title
     }
   }
 }

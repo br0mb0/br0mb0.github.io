@@ -7,9 +7,10 @@ body, div, main, section, article {
   box-sizing: border-box; 
 }
 
-/* universal background color */
+/* universal background colls
+or */
 body {
-  background-color: #9C886A; 
+  background-color: #000000; 
 }
 
 /* header image */
@@ -29,7 +30,8 @@ header img {
 
 /* header font */
 #showComic, header, h1, h2, h3, h4, h5 {
-  font-family: 'Helvetica', bold;
+  font-family: 'Helvetica';
+  font-weight: bold;
 }
 
 /* body font */
@@ -81,15 +83,15 @@ a {
     }
 
 a:hover {
-      color: #DA5437;
+      color: #75216C;
     }
 
 /* HEADER */
 header #nav {
   background-color: #ffffff;
-  outline: 3px solid #000000;
   font-size: 20px;
   width: 98%;
+  padding: 10px 10px;
   margin: auto;
 }
 

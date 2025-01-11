@@ -49,9 +49,9 @@ if (pg == 0) {pg = 1;} //display MOST RECENT COMIC when the webpage is loaded. i
 const pgData = [
     {
         pgNum: 1, //what page number it is
-        title: "", //the title of the page (leaving this blank will default it to "Page X")
+        title: "Cover", //the title of the page (leaving this blank will default it to "Page X")
         date: writeDate(2021, 3, 16), //the date on which the page was posted (mainly for the archive). The date is written using a function called "writeDate", basically just put writeDate and then some parenthesis and, comma separated, the year followed by the month and the day. Don't forget another comma at the end outside the parenthesis!
-        altText: "Here's some alt text!", //the alt text (mouse over text) for this particular comic. put nothing inbetween the quotes for no alt text
+        altText: "", //the alt text (mouse over text) for this particular comic. put nothing inbetween the quotes for no alt text
         imageFiles: 1, //how many image files this page is split into
         authorNotes: `
             <p>If you want to write an author notes section, this'd be the place to do it.</p>
@@ -60,9 +60,9 @@ const pgData = [
     },
     {
         pgNum: 2,
-        title: "",
+        title: "1",
         date: writeDate(2021, 3, 17),
-        altText: "Here's some more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>You can have different author notes for every page.</p>
@@ -71,7 +71,7 @@ const pgData = [
     },
     {
         pgNum: 3,
-        title: "",
+        title: "2",
         date: writeDate(2021, 3, 18),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -81,7 +81,7 @@ const pgData = [
     },
     {
         pgNum: 4,
-        title: "",
+        title: "3",
         date: writeDate(2021, 3, 19),
         altText: "So much alt text...",
         imageFiles: 1,
@@ -91,7 +91,7 @@ const pgData = [
     },
     {
         pgNum: 5,
-        title: "",
+        title: "4",
         date: writeDate(2021, 3, 20),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -101,7 +101,7 @@ const pgData = [
     },
     {
         pgNum: 6,
-        title: ``,
+        title: `5`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -111,7 +111,7 @@ const pgData = [
     },
     {
         pgNum: 7,
-        title: ``,
+        title: `6`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -121,7 +121,7 @@ const pgData = [
     },
 	    {
         pgNum: 8,
-        title: ``,
+        title: `7`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -131,7 +131,7 @@ const pgData = [
     },
 		    {
         pgNum: 9,
-        title: ``,
+        title: `8-9`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -141,7 +141,7 @@ const pgData = [
     },
 		    {
         pgNum: 10,
-        title: ``,
+        title: `10`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -151,7 +151,7 @@ const pgData = [
     },
 		    {
         pgNum: 11,
-        title: ``,
+        title: `11`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -161,7 +161,7 @@ const pgData = [
     },
 		    {
         pgNum: 12,
-        title: ``,
+        title: `12`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -171,7 +171,7 @@ const pgData = [
     },
 		    {
         pgNum: 13,
-        title: ``,
+        title: `13`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -181,7 +181,7 @@ const pgData = [
     },
 		    {
         pgNum: 14,
-        title: ``,
+        title: `14`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -191,7 +191,7 @@ const pgData = [
     },
 		    {
         pgNum: 15,
-        title: ``,
+        title: `15`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -201,7 +201,7 @@ const pgData = [
     },
 		    {
         pgNum: 16,
-        title: ``,
+        title: `16`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -211,7 +211,7 @@ const pgData = [
     },
 		    {
         pgNum: 17,
-        title: ``,
+        title: `17`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -221,7 +221,7 @@ const pgData = [
     },
 		    {
         pgNum: 18,
-        title: ``,
+        title: `18`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -231,7 +231,7 @@ const pgData = [
     },
 		    {
         pgNum: 19,
-        title: ``,
+        title: `19`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -241,7 +241,7 @@ const pgData = [
     },
 		    {
         pgNum: 20,
-        title: ``,
+        title: `20`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -251,7 +251,7 @@ const pgData = [
     },
 		    {
         pgNum: 21,
-        title: ``,
+        title: `21`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -261,7 +261,7 @@ const pgData = [
     },
 		    {
         pgNum: 22,
-        title: ``,
+        title: `22`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -271,7 +271,7 @@ const pgData = [
     },
 		    {
         pgNum: 23,
-        title: ``,
+        title: `23`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -281,7 +281,7 @@ const pgData = [
     },
 		    {
         pgNum: 24,
-        title: ``,
+        title: `24`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -291,7 +291,7 @@ const pgData = [
     },
 			    {
         pgNum: 25,
-        title: ``,
+        title: `25`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -301,7 +301,7 @@ const pgData = [
     },
 			    {
         pgNum: 26,
-        title: ``,
+        title: `26`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -311,7 +311,7 @@ const pgData = [
     },
 			    {
         pgNum: 27,
-        title: ``,
+        title: `27`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -321,7 +321,7 @@ const pgData = [
     },
 			    {
         pgNum: 28,
-        title: ``,
+        title: `28-29`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -331,7 +331,7 @@ const pgData = [
     },
 			    {
         pgNum: 29,
-        title: ``,
+        title: `30`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -341,7 +341,7 @@ const pgData = [
     },
 			    {
         pgNum: 30,
-        title: ``,
+        title: `31`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -351,7 +351,7 @@ const pgData = [
     },
 			    {
         pgNum: 31,
-        title: ``,
+        title: `32`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -361,7 +361,7 @@ const pgData = [
     },
 			    {
         pgNum: 32,
-        title: ``,
+        title: `33`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -371,7 +371,7 @@ const pgData = [
     },
 			    {
         pgNum: 33,
-        title: ``,
+        title: `34`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -381,7 +381,7 @@ const pgData = [
     },
 			    {
         pgNum: 34,
-        title: ``,
+        title: `35`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -391,7 +391,7 @@ const pgData = [
     },
 			    {
         pgNum: 35,
-        title: ``,
+        title: `36`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -401,7 +401,7 @@ const pgData = [
     },
 			    {
         pgNum: 36,
-        title: ``,
+        title: `37`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -411,7 +411,7 @@ const pgData = [
     },
 			    {
         pgNum: 37,
-        title: ``,
+        title: `38`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -421,7 +421,7 @@ const pgData = [
     },
 			    {
         pgNum: 38,
-        title: ``,
+        title: `39`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,
@@ -431,7 +431,7 @@ const pgData = [
     },
 			    {
         pgNum: 39,
-        title: ``,
+        title: `40`,
         date: writeDate(2021, 3, 21),
         altText: "Here's even more alt text!",
         imageFiles: 1,

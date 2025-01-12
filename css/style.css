@@ -12,9 +12,8 @@ or */
 body {
   background-color: #000000; 
   background-image: url(bg.png);
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed;
   background-size: cover;
 }
 

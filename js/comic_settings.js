@@ -421,7 +421,7 @@ const pgData = [
     },
 			    {
         pgNum: 38,
-        title: `39`,
+        title: `Thanks!`,
         date: writeDate(2021, 3, 21),
         altText: "",
         imageFiles: 1,
@@ -431,7 +431,7 @@ const pgData = [
     },
 			    {
         pgNum: 39,
-        title: `40`,
+        title: `Back Cover`,
         date: writeDate(2021, 3, 21),
         altText: "",
         imageFiles: 1,

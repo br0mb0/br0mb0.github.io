@@ -9,7 +9,7 @@ document.querySelector(".writeHeader").innerHTML = `
 			<a style="color: #fff1db">|</a>
             <a href="about.html">ABOUT</a> 
         </div>
-		<a href="index.html"><img src="./img/Assets.png" alt="" /></a> 
+		<a href="index.html"><img src="./img/goo.png" alt="" /></a> 
 </div>
 
     </header>

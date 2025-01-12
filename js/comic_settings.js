@@ -73,7 +73,7 @@ const pgData = [
         pgNum: 3,
         title: "2",
         date: writeDate(2021, 3, 18),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -83,7 +83,7 @@ const pgData = [
         pgNum: 4,
         title: "3",
         date: writeDate(2021, 3, 19),
-        altText: "So much alt text...",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -93,7 +93,7 @@ const pgData = [
         pgNum: 5,
         title: "4",
         date: writeDate(2021, 3, 20),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -103,7 +103,7 @@ const pgData = [
         pgNum: 6,
         title: `5`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -113,7 +113,7 @@ const pgData = [
         pgNum: 7,
         title: `6`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -123,7 +123,7 @@ const pgData = [
         pgNum: 8,
         title: `7`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -133,7 +133,7 @@ const pgData = [
         pgNum: 9,
         title: `8-9`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -143,7 +143,7 @@ const pgData = [
         pgNum: 10,
         title: `10`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -153,7 +153,7 @@ const pgData = [
         pgNum: 11,
         title: `11`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -163,7 +163,7 @@ const pgData = [
         pgNum: 12,
         title: `12`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -173,7 +173,7 @@ const pgData = [
         pgNum: 13,
         title: `13`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -183,7 +183,7 @@ const pgData = [
         pgNum: 14,
         title: `14`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -193,7 +193,7 @@ const pgData = [
         pgNum: 15,
         title: `15`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -203,7 +203,7 @@ const pgData = [
         pgNum: 16,
         title: `16`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -213,7 +213,7 @@ const pgData = [
         pgNum: 17,
         title: `17`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -223,7 +223,7 @@ const pgData = [
         pgNum: 18,
         title: `18`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -233,7 +233,7 @@ const pgData = [
         pgNum: 19,
         title: `19`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -243,7 +243,7 @@ const pgData = [
         pgNum: 20,
         title: `20`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -253,7 +253,7 @@ const pgData = [
         pgNum: 21,
         title: `21`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -263,7 +263,7 @@ const pgData = [
         pgNum: 22,
         title: `22`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -273,7 +273,7 @@ const pgData = [
         pgNum: 23,
         title: `23`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -283,7 +283,7 @@ const pgData = [
         pgNum: 24,
         title: `24`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -293,7 +293,7 @@ const pgData = [
         pgNum: 25,
         title: `25`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -303,7 +303,7 @@ const pgData = [
         pgNum: 26,
         title: `26`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -313,7 +313,7 @@ const pgData = [
         pgNum: 27,
         title: `27`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -323,7 +323,7 @@ const pgData = [
         pgNum: 28,
         title: `28-29`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -333,7 +333,7 @@ const pgData = [
         pgNum: 29,
         title: `30`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -343,7 +343,7 @@ const pgData = [
         pgNum: 30,
         title: `31`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -353,7 +353,7 @@ const pgData = [
         pgNum: 31,
         title: `32`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -363,7 +363,7 @@ const pgData = [
         pgNum: 32,
         title: `33`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -373,7 +373,7 @@ const pgData = [
         pgNum: 33,
         title: `34`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -383,7 +383,7 @@ const pgData = [
         pgNum: 34,
         title: `35`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -393,7 +393,7 @@ const pgData = [
         pgNum: 35,
         title: `36`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -403,7 +403,7 @@ const pgData = [
         pgNum: 36,
         title: `37`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -413,7 +413,7 @@ const pgData = [
         pgNum: 37,
         title: `38`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -423,7 +423,7 @@ const pgData = [
         pgNum: 38,
         title: `39`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>
@@ -433,7 +433,7 @@ const pgData = [
         pgNum: 39,
         title: `40`,
         date: writeDate(2021, 3, 21),
-        altText: "Here's even more alt text!",
+        altText: "",
         imageFiles: 1,
         authorNotes: `
             <p>Sed lectus magna, dignissim eu sapien quis, euismod pulvinar diam. In odio massa, auctor blandit dolor id, varius ultricies lacus. Suspendisse sed libero vel leo dictum consectetur. In fringilla elit sit amet placerat varius. Duis vel lacus ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla facilisi. Proin eleifend metus eu ex elementum venenatis. Curabitur sodales, ipsum placerat ornare convallis, sem eros convallis felis, vel efficitur erat ante id diam.</p>

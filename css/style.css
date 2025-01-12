@@ -37,12 +37,14 @@ header img {
 #showComic, header, h1, h2, h3, h4, h5 {
   font-family: 'Helvetica';
   font-weight: bold;
+  color: #ffffff;
 }
 
 /* body font */
 .subPage p, footer, #authorNotes, .archiveTable {
   font-family: 'Open Sans', sans-serif;
   font-size: large;
+  color: #ffffff;
 }
 
 /* STYLING FOR SUBPAGES (about, characters, etc) */

@@ -5,8 +5,12 @@ document.querySelector(".writeHeader").innerHTML = `
         <a href="index.html"><img src="./img/logo.png" alt="" /></a> 
 
         <div id="nav">
-            <a href="index.html">HOME</a> |
+            <a href="index.html">HOME</a>
+			<a style="color: #fff1db">|</a>
             <a href="about.html">ABOUT</a> 
         </div>
+		<a href="index.html"><img src="./img/Assets.png" alt="" /></a> 
+</div>
+
     </header>
 `;

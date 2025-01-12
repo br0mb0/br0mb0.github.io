@@ -11,7 +11,7 @@ body, div, main, section, article {
 or */
 body {
   background-color: #000000; 
-
+  /*background-image: url(yume.png);*/
 }
 
 /* header image */
@@ -80,16 +80,16 @@ header img {
 
 /* link colors */
 a {
-      color: #000000;
+      color: #fff1db;
     }
 
 a:hover {
-      color: #75216C;
+      color: #77d9ae;
     }
 
 /* HEADER */
 header #nav {
-  background-color: #ffffff;
+  background-color: #001327;
   font-size: 20px;
   width: 98%;
   padding: 10px 10px;

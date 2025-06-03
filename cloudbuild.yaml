@@ -1,0 +1,15 @@
+steps:
+- name: "us-docker.pkg.dev/firebase-cli/us/firebase" # Use the official Firebase CLI image
+  args: [
+    'deploy',        # Run the deploy command
+    '--project=skittishcomic', # Specify your project ID
+    '--only=hosting' # Only deploy Hosting
+  ]
+
+# Optional: Add steps here to build your code if needed!
+# For example, if you have a frontend build process:
+# - name: 'gcr.io/cloud-builders/npm'
+#   args: ['install']
+# - name: 'gcr.io/cloud-builders/npm'
+#   args: ['run', 'build']
+# # ... and then your 'firebase deploy' step would come after the build step!
